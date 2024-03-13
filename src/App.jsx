@@ -1,6 +1,7 @@
 
 import './App.css'
 import Counter from './Counter';
+import Friend from './Friend';
 import Friends from './Friends';
 import Team from './Team';
 import Users from './Users';
@@ -24,6 +25,7 @@ const addToFive = (num) => {
       
       <h3>React Core Concepts 2</h3>
       <Friends></Friends>
+      <Friend></Friend>
       <Users></Users>
       <Team></Team>
       <Counter></Counter>

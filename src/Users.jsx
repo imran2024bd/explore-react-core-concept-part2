@@ -22,3 +22,9 @@ export default function Users () {
  *  2. useEffect with call back and dependency array
  * 3.  use fetch to load data
  */
+
+
+
+/**
+ * 39-6 (Recap) Load Dynamic Data, API Call UseEffect Integrate State
+ */
